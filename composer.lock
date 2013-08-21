@@ -1,0 +1,80 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "570c03cf35a1920460e64962bbd03ce0",
+    "packages": [
+        {
+            "name": "fuel/authentication",
+            "version": "1.7",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/fuel/auth/archive/1.7/develop.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        },
+        {
+            "name": "fuel/core",
+            "version": "1.7",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/fuel/core/archive/1.7/develop.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        },
+        {
+            "name": "fuel/fuel",
+            "version": "1.7",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/fuel/fuel/archive/1.7/develop.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        },
+        {
+            "name": "fuel/oil",
+            "version": "1.7",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/fuel/oil/archive/1.7/develop.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        },
+        {
+            "name": "fuel/orm",
+            "version": "1.7",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/fuel/orm/archive/1.7/develop.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
